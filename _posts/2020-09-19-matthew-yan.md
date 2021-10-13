@@ -16,7 +16,7 @@ As you know my name’s Matt, I’m currently in my final year at UNSW studying 
 Aside from that, I absolutely love travelling around Asia and getting to know the various cultures in these regions. I’ve travelled around Japan, Indonesia, Thailand, Hong Kong and Singapore, and hope to return to China either for work or travel in the near future.
 
 <span style="text-align:center">
-<img style="max-height:500px" src="../../think/assets/images/matt-yan-2.jpg" alt="Matthew Yan"/>
+<img style="max-height:500px" src="https://culturestride.github.io/think/assets/images/matt-yan-2.jpg" alt="Matthew Yan"/>
 </span>
 
 ### Paint a picture for us on your experience growing up
@@ -40,7 +40,7 @@ Lately, I had realised that I had become quite disconnected with my culture. Str
 Whilst I would not particularly ascribe myself to be overtly successful, I think the most important factor which allows me to continually apply myself is the concept of resilience. It’s the idea of taking on each challenge and each barrier with a thirst to continually learn and overcome these experiences. It is to this extent that I view each challenge as a learning opportunity, something to look forward to as a means of growing myself. This allows me especially to recover from setbacks quite quickly. I am a true believer in the sentiment that ‘the road to success is paved with failure’. This idea of not being afraid of failure is pivotal to redefining your approach to success. It’ll allow you to seek opportunities not for being safe or being the conventional route, but simply because you want to give it a shot, or you believe it’s the best path for you. It’ll allow you to stand-out and do exceptional things because of your learnings along that path. This concept has really provided me the constant courage to step outside my comfort zone and try things I never would’ve imagined years ago.
 
 <span style="text-align:center">
-<img style="max-height:500px" src="../../think/assets/images/matt-yan-3.jpg" alt="Matthew Yan"/>
+<img style="max-height:500px" src="https://culturestride.github.io/think/assets/images/matt-yan-3.jpg" alt="Matthew Yan"/>
 </span>
 
 ### What is one piece of advice you’d share to anyone who wants to become more like you?
@@ -54,7 +54,7 @@ Passion can be seen as the work or activity you love doing, whether it be coding
 I think you’ll find that if you have that strong sense of purpose, you’ll have the energy and tenacity to just start learning no matter the area and I’m sure you’ll soon find the area you’re passionate about.
 
 <span style="text-align:center">
-<img style="max-height:500px" src="../../think/assets/images/matt-yan-4.jpg" alt="Matthew Yan"/>
+<img style="max-height:500px" src="https://culturestride.github.io/think/assets/images/matt-yan-4.jpg" alt="Matthew Yan"/>
 </span>
 
 ---

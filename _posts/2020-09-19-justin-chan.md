@@ -37,7 +37,7 @@ In 2016/17, I was fortunate enough to go to Shanghai for a year on exchange and 
 In terms of culture, I think that is most important, even beyond language. Being able to learn Chinese culture and experience it first hand gives insight into a rich history and different perspectives not prevalent in the west. In doing so, more meaningful connections can be made and can yield more fruitful relationships. Language, of course, significantly helps but I think anyone, not just Chinese people, appreciate people understanding and being respectful of their culture.
 
 <span style="text-align:center">
-<img style="max-height:500px" src="../../think/assets/images/justin-chan-1.jpg" alt="Justin Chan"/>
+<img style="max-height:500px" src="https://culturestride.github.io/think/assets/images/justin-chan-1.jpg" alt="Justin Chan"/>
 </span>
 
 ### What has been the most important factor in achieving the success you’ve had?

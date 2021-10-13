@@ -60,12 +60,12 @@ Practical classes are less suited for learners who want to focus on technical vo
 <br>
 
 <figure>
-  <img class="blogImage" src="../../think/assets/images/merry.png" alt="Merry"/>
+  <img class="blogImage" src="https://culturestride.github.io/think/assets/images/merry.png" alt="Merry"/>
   <figcaption>Merry out of Suzhou (can speak Mandarin, English)</figcaption>
 </figure>
 
 <figure>
-  <img class="blogImage" src="../../think/assets/images/olivia.jpg" alt="Olivia"/>
+  <img class="blogImage" src="https://culturestride.github.io/think/assets/images/olivia.jpg" alt="Olivia"/>
   <figcaption>Olivia out of Shanghai (can speak Mandarin, Shanghainese, English)</figcaption>
 </figure>
 

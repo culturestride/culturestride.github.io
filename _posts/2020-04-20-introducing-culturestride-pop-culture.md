@@ -35,7 +35,7 @@ Find links to Chinese movies</a> such as:
 - L for Love L for Lies 我的最爱
 
 <div style="text-align:center">
-<img style="max-height:500px" src="../../think/assets/images/wanderingearth.jpg" alt="Wandering Earth"/>
+<img style="max-height:500px" src="https://culturestride.github.io/think/assets/images/wanderingearth.jpg" alt="Wandering Earth"/>
 </div>
 
 Find links to Chinese TV Shows and Anime</a> such as:
@@ -45,7 +45,7 @@ Find links to Chinese TV Shows and Anime</a> such as:
 - Heart Signal 心动的信号 (English subtitles available)
 
 <div style="text-align:center">
-<img style="max-height:500px" src="../../think/assets/images/kingsavatar.jpg" alt="Kings Avatar"/>
+<img style="max-height:500px" src="https://culturestride.github.io/think/assets/images/kingsavatar.jpg" alt="Kings Avatar"/>
 </div>
 
 #### How do I use this resource?

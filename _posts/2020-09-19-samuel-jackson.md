@@ -36,7 +36,7 @@ With every opportunity that I have been given, I have always worked hard and mad
 I believe it is so important to take advantage of every opportunity that is given to you. For me, I have had the opportunity to involve myself in a variety of work opportunities and a multitude of extra-curricular activities whilst studying at university. These have undoubtedly enabled me to develop important life skills and experiences. I have also taken advantage of opportunities that have challenged me, both personally, emotionally and mentally, including living overseas in two foreign countries on exchange. However, I have found that the most challenging experiences provide the best opportunities to grow personally. In essence, every opportunity provides an opportunity to grow and develop. You never know where it may lead you!
 
 <span style="text-align:center">
-<img style="max-height:500px" src="../../think/assets/images/samuel-jackson-2.jpeg" alt="Samuel Jackson"/>
+<img style="max-height:500px" src="https://culturestride.github.io/think/assets/images/samuel-jackson-2.jpeg" alt="Samuel Jackson"/>
 </span>
 
 ---

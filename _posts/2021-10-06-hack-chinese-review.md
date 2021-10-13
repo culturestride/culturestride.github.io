@@ -23,7 +23,7 @@ Hack Chinese is an amazing system of flashcards and spaced repetition for learni
 I love being able to just study during my short commute to work and back home, and then come to class retaining not only old words learnt, but as well as banking 10 new words to fuel my story telling. Hack Chinese has been my primary vocabulary learning tool, allowing me to memorise over 1000 characters over the past 6 months. 
 
 <figure>
-  <img class="blogImage" src="../../think/assets/images/hackchinese.jpg" alt="Hack Chinese logo"/>
+  <img class="blogImage" src="https://culturestride.github.io/think/assets/images/hackchinese.jpg" alt="Hack Chinese logo"/>
   <figcaption>Hack Chinese logo</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ I love being able to just study during my short commute to work and back home, a
 Every morning on the way to work, I open my Hack Chinese webpage which brings me to this dashboard.
 
 <figure>
-  <img class="blogImage" style="max-height:600px" src="../../think/assets/images/hackchinesedashboard.png" alt="Hack Chinese Dashboard"/>
+  <img class="blogImage" style="max-height:600px" src="https://culturestride.github.io/think/assets/images/hackchinesedashboard.png" alt="Hack Chinese Dashboard"/>
   <figcaption>Kevin's Hack Chinese dashboard</figcaption>
 </figure>
 
@@ -42,25 +42,25 @@ The next section shows ‘Study Consistency’, which shows how consistent you�
 Selecting the top right ‘Study’ button shows a series of study options, including a typical ‘Everyday’ mode optimized for long-term growth, and ‘Custom’ modes, for your style and specific situation. Every morning I will select the Everyday session, where I can then select a study session from 2, 3, 6 or 10 minutes long. 
 
 <figure>
-  <img class="blogImage" src="../../think/assets/images/hackchinesestudy1.png" alt="Hack Chinese Study Mode"/>
+  <img class="blogImage" src="https://culturestride.github.io/think/assets/images/hackchinesestudy1.png" alt="Hack Chinese Study Mode"/>
   <figcaption>Hack Chinese Study Mode</figcaption>
 </figure>
 
 From here your words will appear one a time, without any prompts. You then follow the prompts given at the bottom of the screen, first recalling the pronunciation of the word, and then it’s meaning.
 
 <figure>
-  <img class="blogImage" src="../../think/assets/images/hackchinesestudy2.png" alt="Hack Chinese Study Mode"/>
+  <img class="blogImage" src="https://culturestride.github.io/think/assets/images/hackchinesestudy2.png" alt="Hack Chinese Study Mode"/>
   <figcaption>Hack Chinese Study Mode (Pronounciation)</figcaption>
 </figure>
 
 
 <figure>
-  <img class="blogImage" src="../../think/assets/images/hackchinesestudy3.png" alt="Hack Chinese Study Mode"/>
+  <img class="blogImage" src="https://culturestride.github.io/think/assets/images/hackchinesestudy3.png" alt="Hack Chinese Study Mode"/>
   <figcaption>Hack Chinese Study Mode (Definitions)</figcaption>
 </figure>
 
 <figure>
-  <img class="blogImage" src="../../think/assets/images/hackchinesestudy4.png" alt="Hack Chinese Study Mode"/>
+  <img class="blogImage" src="https://culturestride.github.io/think/assets/images/hackchinesestudy4.png" alt="Hack Chinese Study Mode"/>
   <figcaption>Hack Chinese Study Mode (Definitions)</figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ One of the toughest aspects of learning a new language is the need to constantly
 Hack Chinese has a great database of predetermined word lists that mimic many textbooks, standard HSK learning lists and even community lists which focus on popular vocabulary relevant in modern society. It makes finding new content near effortless, incorporating a great flashcard system which incorporates useful audio cues to help with pronunciation.
 
 <figure>
-  <img class="blogImage" style="max-height:600px" src="../../think/assets/images/hackchinesewordlist.png" alt="Hack Chinese Word List"/>
+  <img class="blogImage" style="max-height:600px" src="https://culturestride.github.io/think/assets/images/hackchinesewordlist.png" alt="Hack Chinese Word List"/>
   <figcaption>Hack Chinese Word Lists</figcaption>
 </figure>
 

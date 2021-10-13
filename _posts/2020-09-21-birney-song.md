@@ -37,7 +37,7 @@ My culture is a huge part of my personality and has shaped my values. My experie
 Foreign languages has enabled me to achieve deeper connections with those around me. When I was in France, I went to a weekly dinner hosted by an elderly French lady at her small, antique apartment. It was a social event for expats where everyone had to make a dish from their home country to share with everyone at dinner- it was such a nice environment. I brought a tin of delicious vegemite that my host-family surprisingly rejected as a present. Other people made pastas, german stews and cakes, so safe to say I felt quite proud to show off my dish. Through this event I met a French girl with whom I later started living with. It was such a fateful encounter. We were both extremely attracted to each other and we bonded largely through our differing cultural backgrounds as well as my keen interest towards French. We would often rode our bikes through Lyon, exploring the city, its cafes and ateliers.
 
 <span style="text-align:center">
-<img style="max-height:500px" src="../../think/assets/images/birney-1.jpg" alt="Birney Song"/>
+<img style="max-height:500px" src="https://culturestride.github.io/think/assets/images/birney-1.jpg" alt="Birney Song"/>
 </span>
 
 ### What has been the most important factor in achieving the success you’ve had?
@@ -49,7 +49,7 @@ Consistency. If you put enough reps into something it eventually becomes part of
 Be open to experiences. Be curious and listen.
 
 <span style="text-align:center">
-<img style="max-height:500px" src="../../think/assets/images/birney-2.jpg" alt="Birney Song"/>
+<img style="max-height:500px" src="https://culturestride.github.io/think/assets/images/birney-2.jpg" alt="Birney Song"/>
 </span>
 
 ---
