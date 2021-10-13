@@ -4,6 +4,8 @@ description: 'The latest in Chinese learning and Culturestride related news.'
 logo: 'think/assets/images/cslogotrans.png'
 favicon: 'think/assets/images/cslogotransbig.png'
 baseurl: ''
+url: 'https://culturestride.com/'
+hosturl: 'https://culturestride.github.io/'
 subdirectory: 'think'
 disqus: 'demowebsite'
 email: 'michael@culturestride.com'
@@ -22,7 +24,7 @@ authors:
     culturestride:
       name:           Culturestride
       site:           https://culturestride.com
-      avatar:         ../think/assets/images/cslogotrans.png
+      avatar:         think/assets/images/cslogotrans.png
       bio:            "Culturestride is creating a more connected and emphathetic world through online language education."
       email:          michael@culturestride.com
       url:            /think/author-culturestride
@@ -30,7 +32,7 @@ authors:
     michaelliang:
       name:           Michael Liang
       site:           https://culturestride.com
-      avatar:         ../think/assets/images/ml.jpg
+      avatar:         think/assets/images/ml.jpg
       bio:            "Co-Founder of Culturestride."
       email:          michael@culturestride.com
       url:            /think/author-michael-liang
@@ -38,7 +40,7 @@ authors:
     kevinhuang:
       name:           Kevin Huang 
       site:           https://medium.com/kevins-dead
-      avatar:         ../think/assets/images/kevin-huang.jpg
+      avatar:         think/assets/images/kevin-huang.jpg
       bio:            "Culturestride Mandarin student since 2020"
       email:          https://medium.com/kevins-dead
       url:            /think/author-kevin-huang
@@ -46,7 +48,7 @@ authors:
     clintonchan:
       name:           Clinton Chan 
       site:           https://medium.com/kevins-dead
-      avatar:         ../think/assets/images/amadeus.png
+      avatar:         think/assets/images/amadeus.png
       bio:            "Guest Poster - Curious about all things tech, economics, philanthropy, and developmental political theory"
       email:          https://medium.com/kevins-dead
       url:            /think/author-clinton-chan
