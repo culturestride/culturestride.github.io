@@ -9,7 +9,7 @@ tags: []
 ---
 With the increased relevance of China in Australia’s economy – from cross-border commerce, also known as daigous, to the recent trade deal with the United States – more people have expressed their interest in learning Chinese.
 
-UNSW Business School alumnus [Michael Liang](https://think.culturestride.com/author-michael-liang) saw an opportunity in the market and launched [Culturestride](https://culturestride.com). Culturestride is an online video platform that enables students to learn Chinese by connecting them with teachers based in China.
+UNSW Business School alumnus Michael Liang saw an opportunity in the market and launched [Culturestride](https://culturestride.com). Culturestride is an online video platform that enables students to learn Chinese by connecting them with teachers based in China.
 
 “When I was studying Chinese in high school, I felt that there was a shortage of good Chinese teachers in Australia,” he said.
 

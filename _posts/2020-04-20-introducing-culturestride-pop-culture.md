@@ -66,6 +66,6 @@ Share your favourite film or binge-worthy series by using any of these two links
 
 [Culturestride](https://culturestride.com) on a mission to create global citizens. We're here to create the best language and cultural immersion experience in the world so that you're globally equipped to travel, live and take advantage of any opportunity that comes your way.
 
-More about our mission <a href="https://culturestride.com/think/join-culturestride/" target="_blank">here</a>.
+More about our mission <a href="https://culturestride.com/think/join-culturestride" target="_blank">here</a>.
 
 Note: Culturestride Pop Culture was previously branded as Culturestride Universe.
