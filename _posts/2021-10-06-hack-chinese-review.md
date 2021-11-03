@@ -3,7 +3,7 @@ layout: post
 title:  "How I use Hack Chinese Spaced Repetition Vocabulary Software"
 description: "Culturestride student Kevin Huang shares his experience using Mandarin Chinese spaced repetition vocabulary building tool Hack Chinese."
 canonical_url: "https://culturestride.com/think/hack-chinese-review"
-categories: [tools]
+categories: [Tools]
 image: think/assets/images/hackchinese.jpg
 author: kevinhuang
 tags: []
@@ -95,3 +95,10 @@ Learning Chinese has been a really fulfilling hobby. I want to say, if you want 
 If you have any questions, feel free to follow me @kevinxhuang on Instagram with a DM. 
 
 I’d like to share a big thank you to [Culturestride](https://culturestride.com/) for helping me connect with my native Chinese tutor Angela. She has been amazing at helping me with my Chinese language journey. 
+
+### Culturestride x Hack Chinese Partnership
+Culturestride has teamed up with Hack Chinese to help Chinese learners across the world better achieve their language proficiency goals.
+
+Hack Chinese students receive unlimited free access to unfilled Practical classes (if you have taken at least one paid class in the last 30 days).
+
+Culturestride students receive XXX discounted subscriptions to Hack Chinese vocabulary software.
